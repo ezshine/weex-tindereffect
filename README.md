@@ -1,6 +1,6 @@
 # weex-tindereffect
 based on weex to make card stack and drag effect  
-![weex-tindereffect](weex-tantan.gif)
+![weex-tindereffect](weex-tantan.gif)  
 		其实是一个挺简单的效果，各种框架下都有类似的源码。但由于weex内没有z-index等，所以实现起来还是挺麻烦的。  
 
 		1、完全基于pan事件实现，实现了手滑方向的判定，以及扔出的判定。
